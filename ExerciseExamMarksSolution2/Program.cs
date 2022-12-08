@@ -31,7 +31,7 @@ string? name = Console.ReadLine();
 // Get Student's Marks
 for (int i = 0; i < marks.Length; i++)
 {
-    Console.WriteLine($"Enter the student's exam marks for Exam {i + 1}");
+    Console.WriteLine($"Enter the student's exam mark for Exam {i + 1} :");
     string? mark = Console.ReadLine();
 
     try
