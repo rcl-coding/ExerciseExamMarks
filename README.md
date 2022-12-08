@@ -2,7 +2,7 @@
 
 A demonstration C# console application to calculate exam marks. This is an exercise from the 'Coding with C#' online event. 
 
-# How to add your own solution or improve and existing solution to this exercise
+# How to add your own solution or improve an existing solution to this exercise
 
 
 - You need a basic understanding of Git and GitHub.com.
