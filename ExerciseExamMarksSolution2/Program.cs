@@ -13,11 +13,11 @@ Write a C# console application to :
 (iv) 	Send a message in the output window if the student passes or fails the course and state the average mark
  
 
-====================================================
+===================================================================================================================
 
-The solution below was developed by : DeSean Ellis
+The solution below was developed by DeSean Ellis a member of the Trinidad and Tobago .NET Developers Group
 
-====================================================
+===================================================================================================================
 
 */
 
