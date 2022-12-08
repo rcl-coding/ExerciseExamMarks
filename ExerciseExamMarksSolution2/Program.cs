@@ -1,4 +1,6 @@
 ﻿/*
+Exercise description:
+
 In a school course, 3 exams (each marked out of 100) are carried out during the school term. 
 The average of the exam marks is calculated for a student at the end of the term.
 The student passes the course if the average mark is more than 50.
@@ -9,7 +11,15 @@ Write a C# console application to :
 (ii) 	Enter the student's exam marks
 (iii)   Calculate the student's average mark at the end of the term
 (iv) 	Send a message in the output window if the student passes or fails the course and state the average mark
- */
+ 
+
+====================================================
+
+The solution below was developed by : DeSean Ellis
+
+====================================================
+
+*/
 
 // Declare Variables
 int[] marks = new int[3];
